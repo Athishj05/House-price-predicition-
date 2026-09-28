@@ -25,7 +25,7 @@ Linear Regression
 The dataset is divided into:
 - 80% Training Data
 - 20% Testing Data
-- 
+
 Evaluation Metrics
 The model is evaluated using:
 - MAE
